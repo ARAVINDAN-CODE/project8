@@ -28,7 +28,7 @@ const Register = () => {
   const [openSnackbar, setOpenSnackbar] = useState(null);
 
   useEffect(() => {
-    // Set openSnackbar to false after 2 seconds (adjust the delay as needed)
+   
     const timeoutId = setTimeout(() => {
       setOpenSnackbar(false);
     }, 2000);
@@ -59,7 +59,7 @@ const Register = () => {
   return (
     <div className="form-container">
       <form onSubmit={handleSubmit}>
-        {/* ... (other form fields) */}
+        
         {/* Name */}
         <label>
           Name:
@@ -112,7 +112,7 @@ const Register = () => {
         </label>
 
 
-        {/* ... (other form fields) */}
+       
 
         {/* Submit button */}
         <br />
