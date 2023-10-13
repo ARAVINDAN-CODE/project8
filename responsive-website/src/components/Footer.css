@@ -1,0 +1,28 @@
+.footer {
+    background-color: green; /* Green color */
+    padding: 0.1%;
+    text-align: center;
+    position: relative;
+  }
+  
+  .social-icons {
+    margin-bottom: 0.5%;
+  }
+  
+  .icon {
+    margin: 0% 1%;
+    font-size: 100%;
+    color: white; /* Set the icon color to white */
+  }
+  
+  .contact-info {
+    margin-bottom: 1%;
+    color: white;
+    font-size: 80%;
+  }
+  
+  .copyright {
+    color: white;
+    font-size: 80%;
+    
+  }

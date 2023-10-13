@@ -1,0 +1,21 @@
+/* Carousel.css */
+.slick-slider {
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .slick-slide img {
+    width: 120%;
+    height: auto;
+  }
+  
+  /* Set a specific height for the carousel */
+  .slick-slider .slick-list {
+    height: 300px; /* Adjust the height to your preference */
+  }
+  
+  /* Add a bottom margin to create space between the carousel and the footer */
+  .slick-slider {
+    margin-bottom: 20px; /* Adjust the margin to create the desired space */
+  }
+  

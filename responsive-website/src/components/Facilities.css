@@ -1,0 +1,25 @@
+.facilities-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin:2%;
+  }
+  
+  .facility {
+    flex: 1;
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .facility img {
+    width: 20%; /* Adjust the width as needed */
+    margin-right: 10px;
+  }
+  
+  .facility .content {
+    flex: 1;
+  }
+  
+  .d{
+    text-align: center;
+    margin-bottom: 5%;
+  }
